@@ -1,0 +1,27 @@
+f_sub
+ u_0
+ u_1
+
+f_add
+ u_0
+ f_neg
+  u_1
+
+f_div
+ u_0
+ u_1
+
+f_mul
+ u_0
+ f_inv
+  u_1
+
+f_pow
+ u_0
+ f_neg
+  u_1
+
+f_inv
+ f_pow
+  u_0
+  u_1

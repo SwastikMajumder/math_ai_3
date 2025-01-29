@@ -1,0 +1,23 @@
+f_div
+ u_0
+ u_1
+
+f_mul
+ u_0
+ f_pow
+  u_1
+  d_-1
+
+f_pow
+ f_mul
+  u_0
+  u_1
+ p_0
+
+f_mul
+ f_pow
+  u_0
+  p_0
+ f_pow
+  u_1
+  p_0

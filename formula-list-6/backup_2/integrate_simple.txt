@@ -1,0 +1,19 @@
+f_int
+ f_mul
+  u_0
+  f_dif
+   u_0
+
+f_div
+ f_pow
+  u_0
+  d_2
+ d_2
+
+f_mul
+ u_0
+ u_1
+
+f_mul
+ u_1
+ u_0
